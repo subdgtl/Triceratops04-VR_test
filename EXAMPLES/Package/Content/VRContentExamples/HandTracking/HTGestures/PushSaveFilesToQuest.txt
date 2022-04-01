@@ -1,0 +1,2 @@
+adb push GestureSlotLeft.sav /sdcard/UE4Game/HandTrackingGestures/HandTrackingGestures/Saved/SaveGames/GestureSlotLeft.sav
+adb push GestureSlotRight.sav /sdcard/UE4Game/HandTrackingGestures/HandTrackingGestures/Saved/SaveGames/GestureSlotRight.sav
